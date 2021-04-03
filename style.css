@@ -174,14 +174,14 @@ ol {
   width: 100%;
 }
 
-.b {
+.a {
+  fill: #796b6d;
+}
+
+.section-comments_form .b {
   fill: rgba(102, 102, 102, 0.5);
 }
 
-.a {
-  fill: brown;
-}
-
-.section-comments_thread .b {
+.single-header .b {
   fill: none;
 }
